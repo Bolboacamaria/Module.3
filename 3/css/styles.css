@@ -1,0 +1,35 @@
+body {
+  font-size: 16px;
+  background-color: #f2f2f2; 
+}
+
+#title{
+
+	text-align: center;
+	font-weight: bold;
+	font-size: 200%
+} 
+
+
+.section { 
+   position: relative;
+   float: right;
+   border: 2px solid #3F0C1F;
+  overflow: hidden;
+  width: 30%;
+  height: 200px;
+  margin: 0 auto 15px; 
+}
+
+  #Beef span, #Sushi span {
+  	  	text-align: center;
+}
+
+button.navbar-toggle {
+	  border: 1px solid #61122f;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
